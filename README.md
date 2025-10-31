@@ -65,10 +65,13 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishant800&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishant800&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant800&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ishant800&show_icons=true&theme=vue&hide_border=true&include_all_commits=true&title_color=22C55E&icon_color=22C55E&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishant800&theme=vue&hide_border=true&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishant800&layout=compact&theme=vue&hide_border=true&langs_count=8&title_color=22C55E&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" height="165"/>
 </p>
+
+<!-- Manual Green Contribution Graph -->
+
 
 ---
 
@@ -131,8 +134,8 @@ I'm passionate about building robust backend systems and always excited to work 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishant800&label=Profile%20views&color=0e75b6&style=flat" alt="ishant800" /> 
-  <img src="https://img.shields.io/github/followers/ishant800?label=Followers&style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=ishant800&label=Profile%20views&color=22C55E&style=flat" alt="ishant800" /> 
+  <img src="https://img.shields.io/github/followers/ishant800?label=Followers&style=social&color=22C55E" alt="Followers"/>
 </p>
 
 <p align="center">
